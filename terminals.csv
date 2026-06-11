@@ -1,0 +1,47 @@
+terminal_id,terminal_name,regional_hub,capacity,max_berths,country
+1,Rotterdam Terminal,EMEA,28952,5,Rotterdam
+2,Hamburg Terminal,EMEA,8819,15,Hamburg
+3,Antwerp Terminal,EMEA,17012,7,Antwerp
+4,Felixstowe Terminal,EMEA,15314,6,Felixstowe
+5,Algeciras Terminal,EMEA,32132,5,Algeciras
+6,Piraeus Terminal,EMEA,30174,15,Piraeus
+7,Valencia Terminal,EMEA,25870,5,Valencia
+8,Genoa Terminal,EMEA,27349,10,Genoa
+9,Marseille Terminal,EMEA,9041,4,Marseille
+10,Tanger Med Terminal,EMEA,11070,7,Tanger Med
+11,Dakar Terminal,EMEA,15623,12,Dakar
+12,Mombasa Terminal,EMEA,27726,4,Mombasa
+13,Shanghai Terminal,APAC,26390,7,Shanghai
+14,Singapore Terminal,APAC,31462,14,Singapore
+15,Busan Terminal,APAC,30981,12,Busan
+16,Hong Kong Terminal,APAC,21746,7,Hong Kong
+17,Ningbo Terminal,APAC,22719,13,Ningbo
+18,Guangzhou Terminal,APAC,17115,16,Guangzhou
+19,Port Klang Terminal,APAC,8212,16,Port Klang
+20,Laem Chabang Terminal,APAC,34405,6,Laem Chabang
+21,Colombo Terminal,APAC,30876,10,Colombo
+22,Tanjung Pelepas Terminal,APAC,19149,8,Tanjung Pelepas
+23,Jakarta Terminal,APAC,13094,7,Jakarta
+24,Manila Terminal,APAC,33018,9,Manila
+25,Los Angeles Terminal,AMER,11349,5,Los Angeles
+26,Long Beach Terminal,AMER,20449,5,Long Beach
+27,New York Terminal,AMER,19763,17,New York
+28,Houston Terminal,AMER,19270,13,Houston
+29,Savannah Terminal,AMER,16667,16,Savannah
+30,Seattle Terminal,AMER,9423,15,Seattle
+31,Miami Terminal,AMER,23054,12,Miami
+32,Baltimore Terminal,AMER,12090,18,Baltimore
+33,Charleston Terminal,AMER,20403,5,Charleston
+34,Vancouver Terminal,AMER,26089,8,Vancouver
+35,Santos Terminal,LATAM,28599,13,Santos
+36,Cartagena Terminal,LATAM,19850,13,Cartagena
+37,Callao Terminal,LATAM,14300,15,Callao
+38,Buenos Aires Terminal,LATAM,10279,4,Buenos Aires
+39,Manzanillo Terminal,LATAM,29668,7,Manzanillo
+40,Colon Terminal,LATAM,33331,8,Colon
+41,Valparaiso Terminal,LATAM,10614,17,Valparaiso
+42,Guayaquil Terminal,LATAM,15628,17,Guayaquil
+43,Montevideo Terminal,LATAM,11309,10,Montevideo
+44,Itapoa Terminal,LATAM,17108,11,Itapoa
+45,Paranagua Terminal,LATAM,28830,17,Paranagua
+46,Barranquilla Terminal,LATAM,19954,6,Barranquilla

@@ -1,0 +1,637 @@
+vessel_id,vessel_name,vessel_category,vessel_age,efficiency_score
+1,Ever Given 001,Container,24,0.742
+2,MSC Gülsün 002,Container,43,0.707
+3,HMM Algeciras 003,Container,44,0.859
+4,OOCL Hong Kong 004,Container,39,0.854
+5,Madrid Maersk 005,Container,35,0.892
+6,CMA CGM Antoine 006,Container,11,0.785
+7,Cosco Shipping 007,Container,18,0.996
+8,Yang Ming 008,Container,41,0.875
+9,Evergreen 009,Container,15,0.874
+10,Hapag Lloyd 010,Container,54,0.907
+11,Ever Given 011,Container,4,0.692
+12,MSC Gülsün 012,Container,3,0.922
+13,HMM Algeciras 013,Container,26,0.707
+14,OOCL Hong Kong 014,Container,14,0.965
+15,Madrid Maersk 015,Container,37,0.951
+16,CMA CGM Antoine 016,Container,21,0.685
+17,Cosco Shipping 017,Container,32,0.758
+18,Yang Ming 018,Container,42,0.784
+19,Evergreen 019,Container,17,0.656
+20,Hapag Lloyd 020,Container,48,0.825
+21,Ever Given 021,Container,17,0.899
+22,MSC Gülsün 022,Container,28,0.959
+23,HMM Algeciras 023,Container,26,0.745
+24,OOCL Hong Kong 024,Container,9,0.804
+25,Madrid Maersk 025,Container,6,0.902
+26,CMA CGM Antoine 026,Container,8,0.661
+27,Cosco Shipping 027,Container,11,0.917
+28,Yang Ming 028,Container,28,0.839
+29,Evergreen 029,Container,25,0.753
+30,Hapag Lloyd 030,Container,30,0.812
+31,Ever Given 031,Container,36,0.944
+32,MSC Gülsün 032,Container,1,0.872
+33,HMM Algeciras 033,Container,8,0.873
+34,OOCL Hong Kong 034,Container,35,0.9
+35,Madrid Maersk 035,Container,50,0.856
+36,CMA CGM Antoine 036,Container,8,0.717
+37,Cosco Shipping 037,Container,11,0.781
+38,Yang Ming 038,Container,47,0.95
+39,Evergreen 039,Container,17,0.989
+40,Hapag Lloyd 040,Container,49,0.671
+41,Ever Given 041,Container,7,0.948
+42,MSC Gülsün 042,Container,20,0.937
+43,HMM Algeciras 043,Container,33,0.844
+44,OOCL Hong Kong 044,Container,10,0.75
+45,Madrid Maersk 045,Container,11,0.816
+46,CMA CGM Antoine 046,Container,50,0.969
+47,Cosco Shipping 047,Container,1,0.84
+48,Yang Ming 048,Container,32,0.608
+49,Evergreen 049,Container,24,0.951
+50,Hapag Lloyd 050,Container,54,0.923
+51,Ever Given 051,Container,16,0.623
+52,MSC Gülsün 052,Container,37,0.979
+53,HMM Algeciras 053,Container,6,0.893
+54,OOCL Hong Kong 054,Container,53,0.628
+55,Madrid Maersk 055,Container,49,0.813
+56,CMA CGM Antoine 056,Container,9,0.651
+57,Cosco Shipping 057,Container,31,0.979
+58,Yang Ming 058,Container,11,0.706
+59,Evergreen 059,Container,39,0.769
+60,Hapag Lloyd 060,Container,14,0.972
+61,Ever Given 061,Container,49,0.892
+62,MSC Gülsün 062,Container,13,0.885
+63,HMM Algeciras 063,Container,26,0.998
+64,OOCL Hong Kong 064,Container,42,0.749
+65,Madrid Maersk 065,Container,34,0.781
+66,CMA CGM Antoine 066,Container,16,0.69
+67,Cosco Shipping 067,Container,22,0.608
+68,Yang Ming 068,Container,36,0.692
+69,Evergreen 069,Container,15,0.603
+70,Hapag Lloyd 070,Container,46,0.852
+71,Ever Given 071,Container,15,0.627
+72,MSC Gülsün 072,Container,3,0.944
+73,HMM Algeciras 073,Container,5,0.806
+74,OOCL Hong Kong 074,Container,18,0.868
+75,Madrid Maersk 075,Container,14,0.816
+76,CMA CGM Antoine 076,Container,47,0.974
+77,Cosco Shipping 077,Container,37,0.83
+78,Yang Ming 078,Container,16,0.914
+79,Evergreen 079,Container,52,0.763
+80,Hapag Lloyd 080,Container,7,0.639
+81,Ever Given 081,Container,28,0.742
+82,MSC Gülsün 082,Container,27,0.787
+83,HMM Algeciras 083,Container,47,0.622
+84,OOCL Hong Kong 084,Container,42,0.994
+85,Madrid Maersk 085,Container,7,0.624
+86,CMA CGM Antoine 086,Container,47,0.736
+87,Cosco Shipping 087,Container,7,0.699
+88,Yang Ming 088,Container,13,0.815
+89,Evergreen 089,Container,9,0.769
+90,Hapag Lloyd 090,Container,18,0.785
+91,Ever Given 091,Container,5,0.777
+92,MSC Gülsün 092,Container,55,0.82
+93,HMM Algeciras 093,Container,4,0.861
+94,OOCL Hong Kong 094,Container,35,0.934
+95,Madrid Maersk 095,Container,6,0.971
+96,CMA CGM Antoine 096,Container,55,0.695
+97,Cosco Shipping 097,Container,27,0.794
+98,Yang Ming 098,Container,14,0.946
+99,Evergreen 099,Container,4,0.666
+100,Hapag Lloyd 100,Container,1,0.994
+101,Ever Given 101,Container,17,0.971
+102,MSC Gülsün 102,Container,51,0.782
+103,HMM Algeciras 103,Container,28,0.879
+104,OOCL Hong Kong 104,Container,47,0.998
+105,Madrid Maersk 105,Container,36,0.865
+106,CMA CGM Antoine 106,Container,32,0.662
+107,Cosco Shipping 107,Container,19,0.687
+108,Yang Ming 108,Container,4,0.832
+109,Evergreen 109,Container,35,0.624
+110,Hapag Lloyd 110,Container,21,0.623
+111,Ever Given 111,Container,38,0.791
+112,MSC Gülsün 112,Container,55,0.812
+113,HMM Algeciras 113,Container,4,0.984
+114,OOCL Hong Kong 114,Container,6,0.941
+115,Madrid Maersk 115,Container,5,0.838
+116,CMA CGM Antoine 116,Container,44,0.945
+117,Cosco Shipping 117,Container,26,0.648
+118,Yang Ming 118,Container,37,0.698
+119,Evergreen 119,Container,39,0.616
+120,Hapag Lloyd 120,Container,6,0.768
+121,Ever Given 121,Container,38,0.826
+122,MSC Gülsün 122,Container,21,0.974
+123,HMM Algeciras 123,Container,14,0.868
+124,OOCL Hong Kong 124,Container,21,0.695
+125,Madrid Maersk 125,Container,26,0.652
+126,CMA CGM Antoine 126,Container,42,0.72
+127,Cosco Shipping 127,Container,21,0.972
+128,Yang Ming 128,Container,5,0.604
+129,Evergreen 129,Container,40,0.999
+130,Hapag Lloyd 130,Container,7,0.629
+131,Ever Given 131,Container,14,0.802
+132,MSC Gülsün 132,Container,9,0.973
+133,HMM Algeciras 133,Container,5,0.952
+134,OOCL Hong Kong 134,Container,24,0.714
+135,Madrid Maersk 135,Container,29,0.933
+136,CMA CGM Antoine 136,Container,46,0.721
+137,Cosco Shipping 137,Container,52,0.862
+138,Yang Ming 138,Container,1,0.867
+139,Evergreen 139,Container,36,0.72
+140,Hapag Lloyd 140,Container,43,0.641
+141,Ever Given 141,Container,9,0.706
+142,MSC Gülsün 142,Container,7,0.897
+143,HMM Algeciras 143,Container,10,0.709
+144,OOCL Hong Kong 144,Container,39,0.684
+145,Madrid Maersk 145,Container,22,0.681
+146,CMA CGM Antoine 146,Container,41,0.941
+147,Cosco Shipping 147,Container,33,0.795
+148,Yang Ming 148,Container,55,0.62
+149,Evergreen 149,Container,41,0.769
+150,Hapag Lloyd 150,Container,18,0.618
+151,Ever Given 151,Container,22,0.908
+152,MSC Gülsün 152,Container,41,0.992
+153,HMM Algeciras 153,Container,11,0.896
+154,OOCL Hong Kong 154,Container,36,0.882
+155,Madrid Maersk 155,Container,36,0.604
+156,CMA CGM Antoine 156,Container,5,0.978
+157,Cosco Shipping 157,Container,45,0.962
+158,Yang Ming 158,Container,35,0.614
+159,Evergreen 159,Container,24,0.833
+160,Hapag Lloyd 160,Container,10,0.772
+161,Ever Given 161,Container,3,0.723
+162,MSC Gülsün 162,Container,51,0.989
+163,HMM Algeciras 163,Container,3,0.96
+164,OOCL Hong Kong 164,Container,14,0.873
+165,Madrid Maersk 165,Container,43,0.641
+166,CMA CGM Antoine 166,Container,50,0.824
+167,Cosco Shipping 167,Container,27,0.99
+168,Yang Ming 168,Container,48,0.662
+169,Evergreen 169,Container,16,0.946
+170,Hapag Lloyd 170,Container,52,0.924
+171,Ever Given 171,Container,27,0.61
+172,MSC Gülsün 172,Container,48,0.97
+173,HMM Algeciras 173,Container,51,0.972
+174,OOCL Hong Kong 174,Container,52,0.868
+175,Madrid Maersk 175,Container,48,0.924
+176,CMA CGM Antoine 176,Container,18,0.664
+177,Cosco Shipping 177,Container,45,0.643
+178,Yang Ming 178,Container,3,0.943
+179,Evergreen 179,Container,15,0.68
+180,Hapag Lloyd 180,Container,30,0.74
+181,Ever Given 181,Container,53,0.918
+182,MSC Gülsün 182,Container,15,0.689
+183,HMM Algeciras 183,Container,43,0.677
+184,OOCL Hong Kong 184,Container,22,0.711
+185,Madrid Maersk 185,Container,5,0.987
+186,CMA CGM Antoine 186,Container,18,0.74
+187,Cosco Shipping 187,Container,33,0.76
+188,Yang Ming 188,Container,54,0.814
+189,Evergreen 189,Container,2,0.646
+190,Hapag Lloyd 190,Container,17,0.671
+191,Ever Given 191,Container,17,0.615
+192,MSC Gülsün 192,Container,39,0.774
+193,HMM Algeciras 193,Container,47,0.915
+194,OOCL Hong Kong 194,Container,28,0.842
+195,Madrid Maersk 195,Container,33,0.646
+196,CMA CGM Antoine 196,Container,37,0.676
+197,Cosco Shipping 197,Container,3,0.884
+198,Yang Ming 198,Container,1,0.808
+199,Evergreen 199,Container,52,0.815
+200,Hapag Lloyd 200,Container,47,0.976
+201,Seawise Giant 001,Tanker,48,0.868
+202,Jahre Viking 002,Tanker,24,0.773
+203,TI Europe 003,Tanker,43,0.968
+204,Knock Nevis 004,Tanker,40,0.726
+205,Batillus 005,Tanker,55,0.65
+206,Prairial 006,Tanker,20,0.803
+207,Esso Atlantic 007,Tanker,43,0.763
+208,Berge Emperor 008,Tanker,26,0.879
+209,Nai Superba 009,Tanker,36,0.651
+210,Stena Immortal 010,Tanker,27,0.866
+211,Seawise Giant 011,Tanker,25,0.871
+212,Jahre Viking 012,Tanker,12,0.846
+213,TI Europe 013,Tanker,20,0.762
+214,Knock Nevis 014,Tanker,54,0.6
+215,Batillus 015,Tanker,19,0.684
+216,Prairial 016,Tanker,51,0.832
+217,Esso Atlantic 017,Tanker,42,0.729
+218,Berge Emperor 018,Tanker,29,0.777
+219,Nai Superba 019,Tanker,14,0.804
+220,Stena Immortal 020,Tanker,51,0.96
+221,Seawise Giant 021,Tanker,51,0.894
+222,Jahre Viking 022,Tanker,43,0.634
+223,TI Europe 023,Tanker,33,0.866
+224,Knock Nevis 024,Tanker,40,0.734
+225,Batillus 025,Tanker,53,0.981
+226,Prairial 026,Tanker,16,0.869
+227,Esso Atlantic 027,Tanker,15,0.923
+228,Berge Emperor 028,Tanker,10,0.61
+229,Nai Superba 029,Tanker,16,0.994
+230,Stena Immortal 030,Tanker,40,0.94
+231,Seawise Giant 031,Tanker,5,0.782
+232,Jahre Viking 032,Tanker,41,0.83
+233,TI Europe 033,Tanker,46,0.879
+234,Knock Nevis 034,Tanker,32,0.76
+235,Batillus 035,Tanker,10,0.862
+236,Prairial 036,Tanker,1,0.957
+237,Esso Atlantic 037,Tanker,50,0.954
+238,Berge Emperor 038,Tanker,50,0.77
+239,Nai Superba 039,Tanker,12,0.922
+240,Stena Immortal 040,Tanker,45,0.807
+241,Seawise Giant 041,Tanker,4,0.823
+242,Jahre Viking 042,Tanker,55,0.649
+243,TI Europe 043,Tanker,9,0.921
+244,Knock Nevis 044,Tanker,43,0.812
+245,Batillus 045,Tanker,36,0.838
+246,Prairial 046,Tanker,49,0.957
+247,Esso Atlantic 047,Tanker,40,0.926
+248,Berge Emperor 048,Tanker,33,0.771
+249,Nai Superba 049,Tanker,36,0.778
+250,Stena Immortal 050,Tanker,11,0.897
+251,Seawise Giant 051,Tanker,31,0.78
+252,Jahre Viking 052,Tanker,49,0.699
+253,TI Europe 053,Tanker,41,0.711
+254,Knock Nevis 054,Tanker,50,0.809
+255,Batillus 055,Tanker,41,0.696
+256,Prairial 056,Tanker,29,0.631
+257,Esso Atlantic 057,Tanker,19,0.694
+258,Berge Emperor 058,Tanker,22,0.728
+259,Nai Superba 059,Tanker,35,0.632
+260,Stena Immortal 060,Tanker,10,0.693
+261,Seawise Giant 061,Tanker,45,0.661
+262,Jahre Viking 062,Tanker,14,0.626
+263,TI Europe 063,Tanker,27,0.732
+264,Knock Nevis 064,Tanker,30,0.766
+265,Batillus 065,Tanker,14,0.933
+266,Prairial 066,Tanker,25,0.962
+267,Esso Atlantic 067,Tanker,38,0.978
+268,Berge Emperor 068,Tanker,2,0.943
+269,Nai Superba 069,Tanker,49,0.83
+270,Stena Immortal 070,Tanker,31,0.602
+271,Seawise Giant 071,Tanker,23,0.719
+272,Jahre Viking 072,Tanker,25,0.941
+273,TI Europe 073,Tanker,54,0.768
+274,Knock Nevis 074,Tanker,48,0.894
+275,Batillus 075,Tanker,52,0.841
+276,Prairial 076,Tanker,15,0.795
+277,Esso Atlantic 077,Tanker,18,0.774
+278,Berge Emperor 078,Tanker,2,0.756
+279,Nai Superba 079,Tanker,43,0.872
+280,Stena Immortal 080,Tanker,26,0.89
+281,Seawise Giant 081,Tanker,54,0.787
+282,Jahre Viking 082,Tanker,9,0.992
+283,TI Europe 083,Tanker,35,0.611
+284,Knock Nevis 084,Tanker,26,0.837
+285,Batillus 085,Tanker,43,0.611
+286,Prairial 086,Tanker,42,0.771
+287,Esso Atlantic 087,Tanker,30,0.673
+288,Berge Emperor 088,Tanker,17,0.752
+289,Nai Superba 089,Tanker,14,0.782
+290,Stena Immortal 090,Tanker,22,0.904
+291,Seawise Giant 091,Tanker,25,0.711
+292,Jahre Viking 092,Tanker,54,0.769
+293,TI Europe 093,Tanker,54,0.633
+294,Knock Nevis 094,Tanker,2,0.9
+295,Batillus 095,Tanker,4,1.0
+296,Prairial 096,Tanker,23,0.69
+297,Esso Atlantic 097,Tanker,5,0.912
+298,Berge Emperor 098,Tanker,42,0.616
+299,Nai Superba 099,Tanker,2,0.98
+300,Stena Immortal 100,Tanker,13,0.936
+301,Seawise Giant 101,Tanker,40,0.661
+302,Jahre Viking 102,Tanker,9,0.789
+303,TI Europe 103,Tanker,8,0.826
+304,Knock Nevis 104,Tanker,14,0.786
+305,Batillus 105,Tanker,17,0.907
+306,Prairial 106,Tanker,11,0.842
+307,Esso Atlantic 107,Tanker,48,0.887
+308,Berge Emperor 108,Tanker,50,0.928
+309,Nai Superba 109,Tanker,20,0.643
+310,Stena Immortal 110,Tanker,2,0.972
+311,Seawise Giant 111,Tanker,37,0.871
+312,Jahre Viking 112,Tanker,25,0.759
+313,TI Europe 113,Tanker,46,0.679
+314,Knock Nevis 114,Tanker,38,0.876
+315,Batillus 115,Tanker,41,0.697
+316,Prairial 116,Tanker,45,0.909
+317,Esso Atlantic 117,Tanker,55,0.874
+318,Berge Emperor 118,Tanker,52,0.648
+319,Nai Superba 119,Tanker,37,0.913
+320,Stena Immortal 120,Tanker,23,0.813
+321,Seawise Giant 121,Tanker,43,0.748
+322,Jahre Viking 122,Tanker,33,0.859
+323,TI Europe 123,Tanker,1,0.94
+324,Knock Nevis 124,Tanker,53,0.796
+325,Batillus 125,Tanker,28,0.984
+326,Prairial 126,Tanker,41,0.957
+327,Esso Atlantic 127,Tanker,30,0.883
+328,Berge Emperor 128,Tanker,28,0.67
+329,Nai Superba 129,Tanker,34,0.986
+330,Stena Immortal 130,Tanker,18,0.846
+331,Seawise Giant 131,Tanker,35,0.91
+332,Jahre Viking 132,Tanker,30,0.774
+333,TI Europe 133,Tanker,47,0.837
+334,Knock Nevis 134,Tanker,21,0.941
+335,Batillus 135,Tanker,54,0.974
+336,Prairial 136,Tanker,18,0.953
+337,Esso Atlantic 137,Tanker,16,0.9
+338,Berge Emperor 138,Tanker,37,0.844
+339,Nai Superba 139,Tanker,25,0.735
+340,Stena Immortal 140,Tanker,32,0.94
+341,Seawise Giant 141,Tanker,12,0.795
+342,Jahre Viking 142,Tanker,23,0.919
+343,TI Europe 143,Tanker,22,0.712
+344,Knock Nevis 144,Tanker,39,0.88
+345,Batillus 145,Tanker,18,0.822
+346,Prairial 146,Tanker,34,0.979
+347,Esso Atlantic 147,Tanker,6,0.697
+348,Berge Emperor 148,Tanker,27,0.795
+349,Nai Superba 149,Tanker,49,0.696
+350,Stena Immortal 150,Tanker,31,0.858
+351,BBC Steinburg 001,Cargo,32,0.779
+352,Beluga Fascination 002,Cargo,2,0.637
+353,Hansa Lübeck 003,Cargo,15,0.762
+354,Svenja 004,Cargo,16,0.722
+355,Thorco Cloud 005,Cargo,38,0.748
+356,Anangel Courage 006,Cargo,36,0.812
+357,Bulk Juliana 007,Cargo,28,0.999
+358,Pacific Basin 008,Cargo,36,0.732
+359,Star Bulk 009,Cargo,45,0.781
+360,Golden Ocean 010,Cargo,20,0.701
+361,BBC Steinburg 011,Cargo,8,0.889
+362,Beluga Fascination 012,Cargo,21,0.648
+363,Hansa Lübeck 013,Cargo,35,0.98
+364,Svenja 014,Cargo,45,0.674
+365,Thorco Cloud 015,Cargo,14,0.895
+366,Anangel Courage 016,Cargo,18,0.89
+367,Bulk Juliana 017,Cargo,49,0.81
+368,Pacific Basin 018,Cargo,19,0.992
+369,Star Bulk 019,Cargo,54,0.678
+370,Golden Ocean 020,Cargo,15,0.744
+371,BBC Steinburg 021,Cargo,20,0.606
+372,Beluga Fascination 022,Cargo,35,0.651
+373,Hansa Lübeck 023,Cargo,3,0.99
+374,Svenja 024,Cargo,36,0.717
+375,Thorco Cloud 025,Cargo,9,0.855
+376,Anangel Courage 026,Cargo,49,0.796
+377,Bulk Juliana 027,Cargo,1,0.83
+378,Pacific Basin 028,Cargo,31,0.791
+379,Star Bulk 029,Cargo,22,0.674
+380,Golden Ocean 030,Cargo,4,0.701
+381,BBC Steinburg 031,Cargo,31,0.646
+382,Beluga Fascination 032,Cargo,5,0.76
+383,Hansa Lübeck 033,Cargo,5,0.831
+384,Svenja 034,Cargo,44,0.621
+385,Thorco Cloud 035,Cargo,10,0.924
+386,Anangel Courage 036,Cargo,20,0.634
+387,Bulk Juliana 037,Cargo,16,0.647
+388,Pacific Basin 038,Cargo,49,0.766
+389,Star Bulk 039,Cargo,39,0.916
+390,Golden Ocean 040,Cargo,15,0.91
+391,BBC Steinburg 041,Cargo,25,0.78
+392,Beluga Fascination 042,Cargo,29,0.719
+393,Hansa Lübeck 043,Cargo,38,0.996
+394,Svenja 044,Cargo,20,0.827
+395,Thorco Cloud 045,Cargo,4,0.844
+396,Anangel Courage 046,Cargo,48,0.64
+397,Bulk Juliana 047,Cargo,49,0.683
+398,Pacific Basin 048,Cargo,14,0.706
+399,Star Bulk 049,Cargo,6,0.663
+400,Golden Ocean 050,Cargo,12,0.821
+401,BBC Steinburg 051,Cargo,11,0.601
+402,Beluga Fascination 052,Cargo,29,0.876
+403,Hansa Lübeck 053,Cargo,31,0.717
+404,Svenja 054,Cargo,15,0.715
+405,Thorco Cloud 055,Cargo,19,0.881
+406,Anangel Courage 056,Cargo,30,0.628
+407,Bulk Juliana 057,Cargo,15,0.97
+408,Pacific Basin 058,Cargo,51,0.916
+409,Star Bulk 059,Cargo,38,0.864
+410,Golden Ocean 060,Cargo,13,0.77
+411,BBC Steinburg 061,Cargo,35,0.69
+412,Beluga Fascination 062,Cargo,10,0.963
+413,Hansa Lübeck 063,Cargo,53,0.657
+414,Svenja 064,Cargo,4,0.666
+415,Thorco Cloud 065,Cargo,20,0.838
+416,Anangel Courage 066,Cargo,53,0.828
+417,Bulk Juliana 067,Cargo,19,0.776
+418,Pacific Basin 068,Cargo,30,0.875
+419,Star Bulk 069,Cargo,45,0.761
+420,Golden Ocean 070,Cargo,18,0.8
+421,BBC Steinburg 071,Cargo,32,0.775
+422,Beluga Fascination 072,Cargo,39,0.616
+423,Hansa Lübeck 073,Cargo,28,0.894
+424,Svenja 074,Cargo,39,0.7
+425,Thorco Cloud 075,Cargo,6,0.692
+426,Anangel Courage 076,Cargo,44,0.934
+427,Bulk Juliana 077,Cargo,37,0.835
+428,Pacific Basin 078,Cargo,2,1.0
+429,Star Bulk 079,Cargo,44,0.929
+430,Golden Ocean 080,Cargo,37,0.616
+431,BBC Steinburg 081,Cargo,49,0.67
+432,Beluga Fascination 082,Cargo,34,0.861
+433,Hansa Lübeck 083,Cargo,18,0.673
+434,Svenja 084,Cargo,38,0.774
+435,Thorco Cloud 085,Cargo,53,0.797
+436,Anangel Courage 086,Cargo,6,0.788
+437,Bulk Juliana 087,Cargo,27,0.733
+438,Pacific Basin 088,Cargo,43,0.642
+439,Star Bulk 089,Cargo,11,0.732
+440,Golden Ocean 090,Cargo,45,0.798
+441,BBC Steinburg 091,Cargo,43,0.978
+442,Beluga Fascination 092,Cargo,53,0.904
+443,Hansa Lübeck 093,Cargo,3,0.782
+444,Svenja 094,Cargo,21,0.701
+445,Thorco Cloud 095,Cargo,8,0.988
+446,Anangel Courage 096,Cargo,26,0.946
+447,Bulk Juliana 097,Cargo,53,0.995
+448,Pacific Basin 098,Cargo,43,0.948
+449,Star Bulk 099,Cargo,30,0.765
+450,Golden Ocean 100,Cargo,13,0.807
+451,BBC Steinburg 101,Cargo,40,0.903
+452,Beluga Fascination 102,Cargo,41,0.777
+453,Hansa Lübeck 103,Cargo,4,0.681
+454,Svenja 104,Cargo,36,0.652
+455,Thorco Cloud 105,Cargo,19,0.775
+456,Anangel Courage 106,Cargo,45,0.794
+457,Bulk Juliana 107,Cargo,2,0.989
+458,Pacific Basin 108,Cargo,39,0.92
+459,Star Bulk 109,Cargo,46,0.663
+460,Golden Ocean 110,Cargo,36,0.605
+461,BBC Steinburg 111,Cargo,27,0.637
+462,Beluga Fascination 112,Cargo,54,0.965
+463,Hansa Lübeck 113,Cargo,30,0.979
+464,Svenja 114,Cargo,42,0.933
+465,Thorco Cloud 115,Cargo,32,0.973
+466,Anangel Courage 116,Cargo,19,0.804
+467,Bulk Juliana 117,Cargo,18,0.766
+468,Pacific Basin 118,Cargo,31,0.992
+469,Star Bulk 119,Cargo,16,0.783
+470,Golden Ocean 120,Cargo,10,0.753
+471,BBC Steinburg 121,Cargo,39,0.803
+472,Beluga Fascination 122,Cargo,9,0.946
+473,Hansa Lübeck 123,Cargo,18,0.909
+474,Svenja 124,Cargo,55,0.766
+475,Thorco Cloud 125,Cargo,51,0.803
+476,Anangel Courage 126,Cargo,53,0.601
+477,Bulk Juliana 127,Cargo,47,0.719
+478,Pacific Basin 128,Cargo,38,0.832
+479,Star Bulk 129,Cargo,43,0.796
+480,Golden Ocean 130,Cargo,10,0.779
+481,BBC Steinburg 131,Cargo,31,0.738
+482,Beluga Fascination 132,Cargo,36,0.905
+483,Hansa Lübeck 133,Cargo,25,0.782
+484,Svenja 134,Cargo,21,0.948
+485,Thorco Cloud 135,Cargo,45,0.696
+486,Anangel Courage 136,Cargo,25,0.693
+487,Bulk Juliana 137,Cargo,50,0.764
+488,Pacific Basin 138,Cargo,21,0.898
+489,Star Bulk 139,Cargo,46,0.965
+490,Golden Ocean 140,Cargo,25,0.754
+491,BBC Steinburg 141,Cargo,43,0.917
+492,Beluga Fascination 142,Cargo,42,0.992
+493,Hansa Lübeck 143,Cargo,32,0.986
+494,Svenja 144,Cargo,9,0.801
+495,Thorco Cloud 145,Cargo,38,0.733
+496,Anangel Courage 146,Cargo,7,0.95
+497,Bulk Juliana 147,Cargo,29,0.64
+498,Pacific Basin 148,Cargo,30,0.606
+499,Star Bulk 149,Cargo,10,0.764
+500,Golden Ocean 150,Cargo,42,0.988
+501,BBC Steinburg 151,Cargo,5,0.788
+502,Beluga Fascination 152,Cargo,17,0.735
+503,Hansa Lübeck 153,Cargo,45,0.759
+504,Svenja 154,Cargo,6,0.941
+505,Thorco Cloud 155,Cargo,55,0.87
+506,Anangel Courage 156,Cargo,35,0.752
+507,Bulk Juliana 157,Cargo,21,0.851
+508,Pacific Basin 158,Cargo,49,0.795
+509,Star Bulk 159,Cargo,35,0.614
+510,Golden Ocean 160,Cargo,5,0.694
+511,BBC Steinburg 161,Cargo,44,0.968
+512,Beluga Fascination 162,Cargo,15,0.899
+513,Hansa Lübeck 163,Cargo,28,0.991
+514,Svenja 164,Cargo,49,0.853
+515,Thorco Cloud 165,Cargo,7,0.777
+516,Anangel Courage 166,Cargo,45,0.72
+517,Bulk Juliana 167,Cargo,2,0.618
+518,Pacific Basin 168,Cargo,51,0.622
+519,Star Bulk 169,Cargo,23,0.75
+520,Golden Ocean 170,Cargo,10,0.698
+521,BBC Steinburg 171,Cargo,27,0.826
+522,Beluga Fascination 172,Cargo,51,0.672
+523,Hansa Lübeck 173,Cargo,12,0.632
+524,Svenja 174,Cargo,25,0.848
+525,Thorco Cloud 175,Cargo,16,0.799
+526,Anangel Courage 176,Cargo,38,0.657
+527,Bulk Juliana 177,Cargo,30,0.855
+528,Pacific Basin 178,Cargo,30,0.702
+529,Star Bulk 179,Cargo,1,0.96
+530,Golden Ocean 180,Cargo,30,0.96
+531,Symphony of Seas 001,Passenger,44,0.819
+532,Wonder of Seas 002,Passenger,5,0.777
+533,Oasis of Seas 003,Passenger,23,0.995
+534,Harmony of Seas 004,Passenger,20,0.856
+535,Allure of Seas 005,Passenger,28,0.876
+536,MSC Grandiosa 006,Passenger,30,0.938
+537,Costa Smeralda 007,Passenger,13,1.0
+538,Iona 008,Passenger,55,0.793
+539,Mardi Gras 009,Passenger,16,0.753
+540,Scarlet Lady 010,Passenger,23,0.83
+541,Symphony of Seas 011,Passenger,45,0.718
+542,Wonder of Seas 012,Passenger,54,0.863
+543,Oasis of Seas 013,Passenger,18,0.603
+544,Harmony of Seas 014,Passenger,44,0.911
+545,Allure of Seas 015,Passenger,4,0.964
+546,MSC Grandiosa 016,Passenger,48,0.799
+547,Costa Smeralda 017,Passenger,19,0.91
+548,Iona 018,Passenger,15,0.843
+549,Mardi Gras 019,Passenger,23,0.688
+550,Scarlet Lady 020,Passenger,13,0.848
+551,Symphony of Seas 021,Passenger,44,0.902
+552,Wonder of Seas 022,Passenger,50,0.864
+553,Oasis of Seas 023,Passenger,54,0.655
+554,Harmony of Seas 024,Passenger,7,0.961
+555,Allure of Seas 025,Passenger,42,0.616
+556,MSC Grandiosa 026,Passenger,51,0.776
+557,Costa Smeralda 027,Passenger,38,0.746
+558,Iona 028,Passenger,9,0.636
+559,Mardi Gras 029,Passenger,19,0.731
+560,Scarlet Lady 030,Passenger,27,0.67
+561,Symphony of Seas 031,Passenger,9,0.915
+562,Wonder of Seas 032,Passenger,24,0.812
+563,Oasis of Seas 033,Passenger,18,0.932
+564,Harmony of Seas 034,Passenger,17,0.966
+565,Allure of Seas 035,Passenger,31,0.987
+566,MSC Grandiosa 036,Passenger,19,0.899
+567,Costa Smeralda 037,Passenger,22,0.922
+568,Iona 038,Passenger,30,0.985
+569,Mardi Gras 039,Passenger,10,0.902
+570,Scarlet Lady 040,Passenger,15,0.944
+571,Symphony of Seas 041,Passenger,47,0.87
+572,Wonder of Seas 042,Passenger,26,0.987
+573,Oasis of Seas 043,Passenger,52,0.823
+574,Harmony of Seas 044,Passenger,6,0.916
+575,Allure of Seas 045,Passenger,1,0.706
+576,MSC Grandiosa 046,Passenger,8,0.782
+577,Costa Smeralda 047,Passenger,44,0.9
+578,Iona 048,Passenger,17,0.834
+579,Mardi Gras 049,Passenger,53,0.855
+580,Scarlet Lady 050,Passenger,24,0.643
+581,Symphony of Seas 051,Passenger,15,0.789
+582,Wonder of Seas 052,Passenger,40,0.954
+583,Oasis of Seas 053,Passenger,36,0.731
+584,Harmony of Seas 054,Passenger,40,0.689
+585,Allure of Seas 055,Passenger,5,0.854
+586,MSC Grandiosa 056,Passenger,30,0.964
+587,Costa Smeralda 057,Passenger,20,0.86
+588,Iona 058,Passenger,8,0.656
+589,Mardi Gras 059,Passenger,3,0.722
+590,Scarlet Lady 060,Passenger,32,0.646
+591,Symphony of Seas 061,Passenger,16,0.955
+592,Wonder of Seas 062,Passenger,9,0.755
+593,Oasis of Seas 063,Passenger,24,0.868
+594,Harmony of Seas 064,Passenger,48,0.879
+595,Allure of Seas 065,Passenger,35,0.768
+596,MSC Grandiosa 066,Passenger,48,0.891
+597,Costa Smeralda 067,Passenger,27,0.862
+598,Iona 068,Passenger,54,0.796
+599,Mardi Gras 069,Passenger,27,0.976
+600,Scarlet Lady 070,Passenger,18,0.613
+601,Symphony of Seas 071,Passenger,24,0.687
+602,Wonder of Seas 072,Passenger,29,0.98
+603,Oasis of Seas 073,Passenger,55,0.745
+604,Harmony of Seas 074,Passenger,44,0.747
+605,Allure of Seas 075,Passenger,42,0.743
+606,MSC Grandiosa 076,Passenger,26,0.71
+607,Costa Smeralda 077,Passenger,8,0.98
+608,Iona 078,Passenger,53,0.782
+609,Mardi Gras 079,Passenger,43,0.685
+610,Scarlet Lady 080,Passenger,41,0.839
+611,Symphony of Seas 081,Passenger,2,0.62
+612,Wonder of Seas 082,Passenger,22,0.697
+613,Oasis of Seas 083,Passenger,9,0.915
+614,Harmony of Seas 084,Passenger,14,0.627
+615,Allure of Seas 085,Passenger,49,0.822
+616,MSC Grandiosa 086,Passenger,38,0.686
+617,Costa Smeralda 087,Passenger,15,0.731
+618,Iona 088,Passenger,10,0.915
+619,Mardi Gras 089,Passenger,39,0.601
+620,Scarlet Lady 090,Passenger,55,0.994
+621,Symphony of Seas 091,Passenger,9,0.816
+622,Wonder of Seas 092,Passenger,52,0.67
+623,Oasis of Seas 093,Passenger,43,0.947
+624,Harmony of Seas 094,Passenger,9,0.606
+625,Allure of Seas 095,Passenger,51,0.915
+626,MSC Grandiosa 096,Passenger,38,0.73
+627,Costa Smeralda 097,Passenger,12,0.706
+628,Iona 098,Passenger,9,0.897
+629,Mardi Gras 099,Passenger,34,0.645
+630,Scarlet Lady 100,Passenger,5,0.79
+631,Symphony of Seas 101,Passenger,50,0.745
+632,Wonder of Seas 102,Passenger,38,0.644
+633,Oasis of Seas 103,Passenger,33,0.689
+634,Harmony of Seas 104,Passenger,40,0.617
+635,Allure of Seas 105,Passenger,51,0.964
+636,MSC Grandiosa 106,Passenger,43,0.809
